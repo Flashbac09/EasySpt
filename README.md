@@ -1,2 +1,2 @@
 # EasySpt
-Gotta carry some codes with my Linux Client.
+Gotta carry some codes synchronizing with my Linux Client.
